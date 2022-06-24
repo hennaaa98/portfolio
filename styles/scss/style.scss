@@ -129,6 +129,10 @@ html {
       transition: 0.5s;
     }
 
+    .hover:hover {
+      color: red;
+    }
+
     .portfolio-item:hover .portfolio-btn {
       opacity: 1;
       width: calc(100% - 50%);
